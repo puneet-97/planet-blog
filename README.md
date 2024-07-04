@@ -1,6 +1,6 @@
 # planet-blog
 
-**planet-blog** is a Medium-like blogging platform built with Next.js. This project showcases features such as user authentication, article management, comments, and a rich text editor.
+**planet-blog** is a Medium-like blogging platform built with Next.js and TypeScript (Next.TS). This project showcases features such as user authentication, article management, comments, and a rich text editor.
 
 ## Features
 
@@ -14,6 +14,17 @@
 - **Notifications**: Real-time notifications for likes, comments, and follows.
 - **Responsive Design**: Fully responsive and mobile-friendly.
 
+## Technologies Used
+
+- **Next.js**: For server-side rendering, static site generation, and API routes.
+- **TypeScript**: For enhanced developer experience and type safety.
+- **React**: For building the user interface.
+- **Node.js**: For backend API and server-side logic.
+- **CSS/SCSS**: For styling.
+- **MongoDB/PostgreSQL**: For database management.
+- **JWT**: For secure user authentication.
+- **WebSockets/Pusher**: For real-time notifications.
+
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
@@ -23,5 +34,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [puneet.k.dev@gmail.com](mailto:puneet.k.dev@gmail.com)
 
 Project Link: [https://github.com/puneet-97/planet-blog](https://github.com/puneet-97/planet-blog)
-
----
